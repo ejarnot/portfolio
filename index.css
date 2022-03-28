@@ -71,12 +71,3 @@ h2{
     display:flex;
     justify-content: space-around;
 }
-.masonry-grid{
-    column-count: 4;
-    column-gap: 1rem;
-    width: 100%;
-}
-.masonry-grid-item{
-    break-inside: avoid;
-    margin-bottom: 1rem;
-}
